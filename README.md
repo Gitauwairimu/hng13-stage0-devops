@@ -7,18 +7,18 @@ This project demonstrates the deployment of an NGINX web server on Ubuntu EC2 in
 ### Student Information ###
 Name: Charles Gitau Wairimu
 
-Slack Username: Gitau Wairimu
+Slack Username: @Gitau Wairimu
 
 Track: DevOps
 
 Stage: 0
 
-###   ###
+###  Deployment Details ###
 Server Details Server IP/Domain: 34.229.144.242
 
 Access URL: http://34.229.144.242/
 
-Platform: AWS EC2
+Platform: AWS
 ###   ###
 
 Deployment Date: 16th October 2025
