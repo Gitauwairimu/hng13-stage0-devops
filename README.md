@@ -14,6 +14,7 @@ Track: DevOps
 Stage: 0
 
 ###  Deployment Details ###
+
 Server Details Server IP/Domain: 34.229.144.242
 
 Access URL: http://34.229.144.242/
